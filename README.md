@@ -41,3 +41,6 @@ $ yarn
 $ yarn dev
 
 ```
+---
+
+<p align="center">Feito por Lucca Ambrosius 🦊</p>
